@@ -1,5 +1,12 @@
 # 📊 Análise Geral da Economia Brasileira
 
+
+## 👩‍💻 Status do Projeto
+
+![Badge Em andamento](https://img.shields.io/badge/Status-Em%20andamento-yellow)
+
+---
+
 ## 📌 Introdução
 
 Este projeto tem como objetivo analisar indicadores micro e macroeconômicos, compreendendo a natureza da economia brasileira em diferentes níveis. Busca-se entender como indivíduos, empresas e o governo reagem às mudanças no cenário econômico, com base em dados concretos e análise crítica.
@@ -10,9 +17,9 @@ Este projeto tem como objetivo analisar indicadores micro e macroeconômicos, co
 
 A abordagem é progressiva e organizada em três grandes recortes temáticos:
 
-- **Microeconomia** (✅ Concluído): Análise de agentes econômicos individuais, comportamento do consumidor, firmas e formação de preços em mercados específicos.
-- **Macroeconomia** (🕒 Em andamento): Estudo de agregados econômicos como PIB, inflação, desemprego e política monetária.
-- **Finanças de Mercado** (🕒 Em andamento): Avaliação dos mercados financeiros, taxa de juros, câmbio e instrumentos de investimento.
+- **Microeconomia**: Análise de agentes econômicos individuais, comportamento do consumidor, firmas e formação de preços em mercados específicos.
+- **Macroeconomia**: Estudo de agregados econômicos como PIB, inflação, desemprego e política monetária.
+- **Finanças de Mercado**: Avaliação dos mercados financeiros, taxa de juros, câmbio e instrumentos de investimento.
 
 ---
 
