@@ -74,24 +74,30 @@ jupyter lab
 
 ## 📚 Fontes de Dados
 
+As tabelas utilizadas nas análises deste trabalho foram extraídas das bases de dados do **Instituto Brasileiro de Geografia e Estatística (IBGE)**, do *"Economic World Outlook Dashboard - April 2025"*, de autoria do **Fundo Monetário Internacional (FMI)**, e do **Instituto de Pesquisa Econômica Aplicada (IPEA)**, cujos respectivos sites podem ser acessados abaixo:
+
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-  <a href="https://www.ibge.gov.br" style="text-decoration: none; color: black;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IBGE-Brazil.svg/2880px-IBGE-Brazil.svg.png" width="50"/>
-    <span style="margin-top: 6px;">IBGE</span>
-  </a>
+  <div style="display: flex; align-items: center;">
+    <a href="https://www.ibge.gov.br" style="text-decoration: none; color: black; margin-right: 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IBGE-Brazil.svg/2880px-IBGE-Brazil.svg.png" width="50"/>
+    </a>
+  </div>
 
-  <a href="https://www.imf.org" style="text-decoration: none; color: black;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IMF-Seal_ENG_RGB.svg/1920px-IMF-Seal_ENG_RGB.svg.png" width="50"/>
-    <span style="margin-top: 6px;">FMI</span>
-  </a>
+  <div style="display: flex; align-items: center;">
+    <a href="https://www.imf.org" style="text-decoration: none; color: black; margin-right: 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IMF-Seal_ENG_RGB.svg/1920px-IMF-Seal_ENG_RGB.svg.png" width="50"/>
+    </a>
+  </div>
 
-  <a href="https://www.ipea.gov.br" style="text-decoration: none; color: black;">
-    <img src="https://www.ipea.gov.br/protecaodedados/images/logoipea_azul.png" width="70"/>
-    <span style="margin-top: 6px;">IPEA</span>
-  </a>
+  <div style="display: flex; align-items: center;">
+    <a href="https://www.ipea.gov.br" style="text-decoration: none; color: black; margin-right: 10px;">
+      <img src="https://www.ipea.gov.br/protecaodedados/images/logoipea_azul.png" width="70"/>
+    </a>
+  </div>
 
 </div>
+
 
 
 ---
