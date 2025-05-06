@@ -26,7 +26,7 @@ A abordagem é progressiva e organizada em três grandes recortes temáticos:
 
 Uma visão profunda e contextualizada dos fatores que moldaram a economia brasileira na última década. O trabalho propõe interpretar dados e tendências com base em teorias econômicas e na realidade histórica recente. 
 
-Nosso foco recai sobre quatro questões fundamentais:
+Para a abordagem atual, escolhida para o primeiro trabalho, o foco das análises recai sobre quatro questões fundamentais:
 - "Como o crescimento do PIB se relaciona com a intenção de consumo?",
 - "Existe uma relação entre indicadores de saúde (como mortalidade e expectativa de vida) e o PIB no Brasil?",
 - "A queda na taxa de fecundidade tem correlação com o poder de compra e com a renda?",
