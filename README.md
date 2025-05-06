@@ -74,15 +74,24 @@ jupyter lab
 
 ## 📚 Fontes de Dados
 
-<a href="https://www.ibge.gov.br">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IBGE-Brazil.svg/2880px-IBGE-Brazil.svg.png" width="50"/>
-</a>
-<a href="https://www.imf.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IMF-Seal_ENG_RGB.svg/1920px-IMF-Seal_ENG_RGB.svg.png" width="50"/>
-</a>
-<a href="https://www.ipea.gov.br">
-  <img src="https://www.ipea.gov.br/protecaodedados/images/logoipea_azul.png" width="70"/>
-</a>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+
+  <a href="https://www.ibge.gov.br" style="text-decoration: none; color: black;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IBGE-Brazil.svg/2880px-IBGE-Brazil.svg.png" width="50"/>
+    <span style="margin-top: 6px;">IBGE</span>
+  </a>
+
+  <a href="https://www.imf.org" style="text-decoration: none; color: black;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IMF-Seal_ENG_RGB.svg/1920px-IMF-Seal_ENG_RGB.svg.png" width="50"/>
+    <span style="margin-top: 6px;">FMI</span>
+  </a>
+
+  <a href="https://www.ipea.gov.br" style="text-decoration: none; color: black;">
+    <img src="https://www.ipea.gov.br/protecaodedados/images/logoipea_azul.png" width="70"/>
+    <span style="margin-top: 6px;">IPEA</span>
+  </a>
+
+</div>
 
 
 ---
