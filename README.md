@@ -81,7 +81,7 @@ jupyter lab
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IMF-Seal_ENG_RGB.svg/1920px-IMF-Seal_ENG_RGB.svg.png" width="50"/>
 </a>
 <a href="https://www.ipea.gov.br">
-  <img src="https://avatars.githubusercontent.com/u/22377669?s=280&v=4" width="50"/>
+  <img src="https://www.ipea.gov.br/protecaodedados/images/logoipea_azul.png" width="50"/>
 </a>
 
 
