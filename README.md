@@ -18,9 +18,9 @@ A abordagem é progressiva e organizada em três grandes recortes temáticos:
 
 - **Microeconomia**: Análise de agentes econômicos individuais, comportamento do consumidor, firmas e formação de preços em mercados específicos. Nosso foco recai sobre quatro questões fundamentais:
 
-"Como o crescimento do PIB se relaciona com a intenção de consumo?"
-"Existe uma relação entre indicadores de saúde (como mortalidade e expectativa de vida) e o PIB no Brasil?"
-"A queda na taxa de fecundidade tem correlação com o poder de compra e com a renda?"
+"Como o crescimento do PIB se relaciona com a intenção de consumo?",
+"Existe uma relação entre indicadores de saúde (como mortalidade e expectativa de vida) e o PIB no Brasil?",
+"A queda na taxa de fecundidade tem correlação com o poder de compra e com a renda?",
 "O envelhecimento populacional tem alterado o consumo de produtos relacionados à manutenção da saúde?"
 
 - **Macroeconomia**: Estudo de agregados econômicos como PIB, inflação, desemprego e política monetária.
