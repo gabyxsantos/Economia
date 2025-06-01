@@ -14,11 +14,10 @@ Este projeto tem como objetivo analisar indicadores micro e macroeconômicos, co
 
 ## 🧩 Estrutura da Análise
 
-A abordagem é progressiva e organizada em três grandes recortes temáticos:
+A abordagem é progressiva e organizada em dois grandes recortes temáticos:
 
-- **Microeconomia**: Análise de agentes econômicos individuais, comportamento do consumidor, firmas e formação de preços em mercados específicos. Nosso foco recai sobre quatro questões fundamentais:
-- **Macroeconomia**: Estudo de agregados econômicos como PIB, inflação, desemprego e política monetária.
-- **Finanças de Mercado**: Avaliação dos mercados financeiros, taxa de juros, câmbio e instrumentos de investimento.
+- **Micro e macroeconomia**: Análise de agentes econômicos individuais, comportamento do consumidor, firmas e formação de preços em mercados específicos, além do estudo de agregados econômicos como PIB E inflação.
+- **Macroeconomia com foco em política monetária:** Estudo do papel do Banco Central e dos instrumentos de política monetária (como taxa básica de juros - SELIC) na regulação da economia, visando controlar a inflação, estimular o crescimento econômico e manter a estabilidade financeira.
 
 ---
 
