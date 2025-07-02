@@ -1,7 +1,7 @@
 # 📊 Análise Geral da Economia Brasileira
 ![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
 
-![Badge Em andamento](https://img.shields.io/badge/Status-Em%20andamento-yellow)
+![Badge Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 
 
 ---
